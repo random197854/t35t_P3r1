@@ -1,90 +1,83 @@
 
 character.png
-size: 2048,1024
-format: RGBA8888
-filter: Linear,Linear
+size: 1712, 800
+format: RGBA4444
+filter: Linear, Linear
 repeat: none
 Em00
   rotate: true
-  xy: 1745, 129
-  size: 126, 89
-  orig: 126, 89
-  offset: 0, 0
+  xy: 1595, 312
+  size: 104, 74
+  orig: 106, 75
+  offset: 0, 1
   index: -1
 Em01
   rotate: true
-  xy: 1745, 385
-  size: 128, 104
-  orig: 128, 104
-  offset: 0, 0
+  xy: 1631, 691
+  size: 105, 79
+  orig: 105, 80
+  offset: 0, 1
   index: -1
 Em02
-  rotate: false
-  xy: 1885, 851
-  size: 127, 107
-  orig: 127, 107
-  offset: 0, 0
+  rotate: true
+  xy: 1631, 584
+  size: 105, 74
+  orig: 105, 75
+  offset: 0, 1
   index: -1
 Em03
-  rotate: true
-  xy: 1851, 387
-  size: 126, 88
-  orig: 126, 88
+  rotate: false
+  xy: 1467, 357
+  size: 126, 166
+  orig: 126, 169
   offset: 0, 0
   index: -1
 Em04
-  rotate: false
-  xy: 1885, 743
-  size: 123, 106
-  orig: 123, 106
-  offset: 0, 0
+  rotate: true
+  xy: 1595, 105
+  size: 100, 78
+  orig: 100, 79
+  offset: 0, 1
   index: -1
 Em05
   rotate: true
-  xy: 1745, 257
-  size: 126, 95
-  orig: 126, 95
-  offset: 0, 0
+  xy: 1595, 207
+  size: 103, 88
+  orig: 103, 89
+  offset: 0, 1
   index: -1
 Em06
-  rotate: false
-  xy: 1885, 647
-  size: 119, 94
-  orig: 119, 94
-  offset: 0, 0
+  rotate: true
+  xy: 1595, 418
+  size: 105, 72
+  orig: 105, 74
+  offset: 0, 2
   index: -1
 Em07
   rotate: false
-  xy: 1745, 515
-  size: 125, 119
-  orig: 125, 119
+  xy: 1467, 189
+  size: 126, 166
+  orig: 126, 169
   offset: 0, 0
   index: -1
 Em08
-  rotate: true
-  xy: 1745, 2
-  size: 125, 89
-  orig: 125, 89
+  rotate: false
+  xy: 1467, 22
+  size: 126, 165
+  orig: 126, 168
   offset: 0, 0
   index: -1
 Em09
   rotate: true
-  xy: 1842, 258
-  size: 125, 87
-  orig: 125, 87
-  offset: 0, 0
-  index: -1
-Em10
-  rotate: true
-  xy: 1745, 636
-  size: 322, 138
-  orig: 322, 138
+  xy: 1467, 525
+  size: 271, 162
+  orig: 271, 165
   offset: 0, 0
   index: -1
 base
   rotate: true
-  xy: 2, 12
-  size: 946, 1741
-  orig: 946, 1741
+  xy: 2, 2
+  size: 794, 1463
+  orig: 794, 1463
   offset: 0, 0
   index: -1

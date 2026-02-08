@@ -1,0 +1,83 @@
+
+character.png
+size: 1772, 1072
+format: RGBA4444
+filter: Linear, Linear
+repeat: none
+Em00
+  rotate: false
+  xy: 1419, 918
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em01
+  rotate: false
+  xy: 1419, 767
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em02
+  rotate: true
+  xy: 1619, 869
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em03
+  rotate: false
+  xy: 1419, 616
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em04
+  rotate: true
+  xy: 1619, 669
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em05
+  rotate: false
+  xy: 1419, 465
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em06
+  rotate: true
+  xy: 1619, 469
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em07
+  rotate: false
+  xy: 1419, 314
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em08
+  rotate: false
+  xy: 1419, 163
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+Em09
+  rotate: true
+  xy: 1619, 269
+  size: 198, 149
+  orig: 198, 150
+  offset: 0, 0
+  index: -1
+base
+  rotate: true
+  xy: 2, 2
+  size: 1065, 1415
+  orig: 1065, 1415
+  offset: 0, 0
+  index: -1

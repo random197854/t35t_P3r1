@@ -1,0 +1,13 @@
+
+character.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 2, 2
+  size: 1179, 1913
+  orig: 1179, 1913
+  offset: 0, 0
+  index: -1
